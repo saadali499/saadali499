@@ -19,7 +19,7 @@ I am building my GitHub portfolio by working on practical Python projects — st
 - [File Organizer Script](https://github.com/saadali499/File-Organizer-Python)  
   *Python automation to sort files by type using Jupyter Notebook.*
 
-- [PDF Merger Tool]  
+- [PDF Merger Tool] (https://github.com/saadali499/PDF-Merger-Tool) 
   *Python script to merge multiple PDF files automatically.*
 
 - [Exploratory Data Analysis Projects](#) *(Planned)*  
