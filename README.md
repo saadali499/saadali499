@@ -22,7 +22,7 @@ I am building my GitHub portfolio by working on practical Python projects — st
 - [PDF Merger Tool] https://github.com/saadali499/PDF-Merger-Tool 
   *Python script to merge multiple PDF files automatically.*
 
-- [Exploratory Data Analysis Projects](#) *(Planned)*  
+- [Exploratory Data Analysis Projects] https://github.com/saadali499/Titanic-EDA  
   *EDA on public datasets using Python, Pandas, and Matplotlib.*
 
 ---
